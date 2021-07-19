@@ -1,0 +1,7 @@
+#+TITLE: Public Scripts readme file
+
+I write my scripts in a literate style, see [[https://www.cs.tufts.edu/~nr/noweb/][noweb]] and [[https://orgmode.org/worg/org-contrib/babel/intro.html][babel]] for details.
+I use multiple tangle targets to output files to this repo when I feel like they are 'good enough'.
+My good enough is probably different then yours.
+Generally, it means that it works for me and that it doesn't have any obvious bugs.
+I might add a script here that doesn't work if it is large and I am actively working on it.
